@@ -21,7 +21,7 @@ Um projeto paralelo divertido testando APIs.
 
 ---
 ### 📫 contato
-Você pode me encontrar no [LinkedIn](https://bit.ly/4pXr3wc) ou conferir meu código no [Github](https://bit.ly/3KxL4cA)
+Você pode me encontrar no [LinkedIn](https://bit.ly/4pXr3wc) ou conferir meu código aqui no [Github](https://bit.ly/3KxL4cA)
 
 ---
 

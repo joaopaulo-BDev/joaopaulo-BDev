@@ -15,6 +15,9 @@ A fun side project excperimenting with APIs.
 
 ---
 ### 📫 Contact
+you can reach me on [LinkedIn](https://bit.ly/4pXr3wc) or check my code on [Github](
+
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulo-BDev&&show_icons=true&theme=dark)
 

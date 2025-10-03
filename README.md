@@ -8,7 +8,7 @@ I'm aspiring developer pasionate about learning new technologies and building co
 ### 🚀 Projects 
 
 ##### **Project one** 
-A simple app i build to practice Java.
+A simple app i built to practice Java.
 
 ##### **Project two** 
 A fun side project excperimenting with APIs.

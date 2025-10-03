@@ -1,7 +1,7 @@
 # 🌟 My Developer Portifolio 
 
 ### 🤵🏻 About me 
-I'm aspiring developer pasionate about learning new technologies and building cool projects.
+I'm aspiring developer passionate about learning new technologies and building cool projects.
 
 ---
 

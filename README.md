@@ -4,24 +4,24 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/joaopaulo-BDev/joaopaulo-BDev/output/pacman-contribution-graph.svg">
 </picture>
 
-# 🌟 My Developer Portifolio 
+# 🌟 Meu Portifolio 
 
-### 🤵🏻 About me 
-I'm aspiring developer passionate about learning new technologies and building cool projects.
-
----
-
-### 🚀 Projects 
-
-##### **Project one** 
-A simple app i built to practice Java.
-
-##### **Project two** 
-A fun side project excperimenting with APIs.
+### 🤵🏻 Sobre mim  
+Sou um aspirante a desenvolvedor, apaixonado por aprender novas tecnologias e criar projetos interessantes.
 
 ---
-### 📫 Contact
-you can reach me on [LinkedIn](https://bit.ly/4pXr3wc) or check my code on [Github](https://bit.ly/3KxL4cA)
+
+### 🚀 Projetos 
+
+##### **Projeto um** 
+Um aplicativo simples que construí para praticar Java.
+
+##### **Projeto dois** 
+Um projeto paralelo divertido testando APIs.
+
+---
+### 📫 contato
+Você pode me encontrar no [LinkedIn](https://bit.ly/4pXr3wc) ou conferir meu código no [Github](https://bit.ly/3KxL4cA)
 
 ---
 

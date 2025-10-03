@@ -14,6 +14,8 @@ A simple app i built to practice Java.
 A fun side project excperimenting with APIs.
 
 ---
+### 📫 Contact
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulo-BDev&&show_icons=true&theme=dark)
 
 

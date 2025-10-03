@@ -22,7 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.PAT_TOKEN }}
           theme: github-dark
-
+          repository_name: ${{ github.repository }}
       - name: Publicar pacman-contribution-graph.svg na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

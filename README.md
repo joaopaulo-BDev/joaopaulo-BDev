@@ -32,6 +32,31 @@ Minhas principais responsabilidades incluem a construção da estrutura de dados
 - Controle de versão: Git
 
 ---
+
+### 🚀 Projetos Prontos
+
+##### API de Clima
+
+Desenvolvi uma **API de Clima** em **Node.js** para consultar dados meteorológicos em tempo real de qualquer cidade.  
+Utilizei **Express** para criar o servidor e rotas REST, **Axios** para consumir dados da **OpenWeatherMap**, e **dotenv** para gerenciar a chave da API de forma segura. Criei o arquivo **.env** para armazenar minha chave pessoal e adicionei ao **.gitignore** para protegê-la.
+
+O projeto foi testado localmente e preparado para rodar em **Docker**, garantindo portabilidade e isolamento do ambiente. Toda a aplicação foi versionada com **Git** e hospedada no **GitHub**, organizada de forma que facilita atualizações e criação de branches sem comprometer o histórico principal.
+
+### Tecnologias e Ferramentas Utilizadas
+
+- **Linguagens:** JavaScript (Node.js), JSON  
+- **Frameworks e Bibliotecas:** Express.js, Axios, dotenv  
+- **Ferramentas:** Node.js, npm, Docker, Git/GitHub, IntelliJ IDEA  
+- **Conceitos aplicados:** API RESTful, integração com APIs externas, boas práticas de segurança, containerização, controle de versão
+
+### Funcionalidades
+
+- Consulta do clima de qualquer cidade em tempo real  
+- Tratamento de erros e respostas consistentes  
+- Configuração segura da chave da API com `.env`  
+- Execução local e via Docker container
+
+---
 ### 📫 contato
 Você pode me encontrar no [LinkedIn](https://bit.ly/4pXr3wc) ou conferir meu código aqui no [Github](https://bit.ly/3KxL4cA)
 

@@ -21,11 +21,11 @@ jobs:
           outputs: |
             dist/pacman-contribution-graph.svg
 
-      - name: Publicar no branch output
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+  name: Publicar no branch output
+  uses: crazy-max/ghaction-github-pages@v3
+  with:
+    target_branch: output
+    build_dir: dist
+    keep_history: false
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

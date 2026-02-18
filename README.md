@@ -1,11 +1,11 @@
-# 🌟 Meu Portifolio 
+# Meu Portifolio 
 
-### 🤵🏻 Sobre mim  
+### Sobre mim  
 Sou um aspirante a desenvolvedor, apaixonado por aprender novas tecnologias e criar projetos interessantes.
 
 ---
 
-### 🚀 Projetos em contrução 
+### Projetos em contrução 
 
 #### **Projeto um: RealMeet – Sistema de Agendamento de Salas de Reunião** 
 O projeto RealMeet tem como objetivo otimizar o agendamento e a gestão de salas de reunião internas, com foco inicial na camada de back-end. A aplicação foi desenvolvida com arquitetura baseada em API REST, garantindo integração eficiente com o front-end por meio de JSON.
@@ -27,7 +27,7 @@ Minhas principais responsabilidades incluem a construção da estrutura de dados
 
 ---
 
-### 🚀 Projetos Prontos
+### Projetos Prontos
 
 ##### API de Clima
 
